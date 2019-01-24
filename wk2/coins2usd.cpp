@@ -1,3 +1,4 @@
+//coins2usd.cpp
 //Given a number of quarters, dimes, nickels, and pennies,
 //outputs the total amount of money in dollars.
 
