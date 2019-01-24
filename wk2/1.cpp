@@ -1,3 +1,7 @@
+//Given a number of desired miles,
+//outputs the required number of 1/14 mile laps.
+
+
 #include <iostream>
 
 using namespace std;

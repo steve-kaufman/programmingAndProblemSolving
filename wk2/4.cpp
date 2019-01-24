@@ -1,3 +1,9 @@
+//Given a number of feet,
+//outputs the equivalent number of
+//yards, inches, centimeters, and meters
+//rounded to the nearest hundredth
+
+
 #include <iostream>
 #include <stdio.h>
 #include <math.h>

@@ -1,3 +1,7 @@
+//Given the length, width, and height of a box,
+//outputs the surface area and volume of the box.
+
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,7 @@
+//Given a number of ounces,
+//outputs the number of whole quarts and remainder of ounces
+
+
 #include <iostream>
 
 using namespace std;
