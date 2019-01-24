@@ -8,12 +8,12 @@ int main(){
     cout << "Enter number of feet: ";
     cin >> feet;
     yards = roundf(feet / 3 * 100) / 100;
-    printf("= %0.2f yards\n", yards);
+    printf("= %.2f yards\n", yards);
     inches = roundf(feet * 12 * 100) / 100;
-    printf("= %0.2f inches\n", inches);
+    printf("= %.2f inches\n", inches);
     cm = roundf(feet * 12 * 2.54 * 100) / 100;
-    printf("= %0.2f cm\n", cm);
+    printf("= %.2f cm\n", cm);
     meters = roundf(feet * 12 * 2.54 / 100 * 100) / 100;
-    printf("= %0.2f meters\n", meters);
+    printf("= %.2f meters\n", meters);
     return 0;
 }
