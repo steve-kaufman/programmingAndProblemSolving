@@ -1,3 +1,9 @@
+//rows.cpp
+/*
+ * Given a number of rows, this program
+ * outputs a pyramid of asterisks with that number of rows
+ */
+
 #include <iostream>
 #include <string>
 

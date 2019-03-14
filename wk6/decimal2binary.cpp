@@ -1,3 +1,9 @@
+//decimal2binary.cpp
+/*
+ * Given a positive integer, this program
+ * returns the binary equivalent of that number
+ */
+
 #include <iostream>
 
 using namespace std;
