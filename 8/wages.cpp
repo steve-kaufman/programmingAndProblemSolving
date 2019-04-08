@@ -1,3 +1,9 @@
+//wages.cpp
+/*
+ * Given a worker's name, wage rate, and overtime hours, if any,
+ * displays wages earned
+ */
+
 #include <iostream>
 #include <iomanip>
 

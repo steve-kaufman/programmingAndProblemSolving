@@ -1,3 +1,9 @@
+//perimeter.cpp
+/*
+ * Given a type of shape, program will ask for dimensions and
+ * display perimeter
+ */
+
 #include <iostream>
 
 using namespace std;
