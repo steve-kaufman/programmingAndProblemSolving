@@ -21,7 +21,8 @@ int main(){
         bin += num % (place * 2) / place * multiplier;
         place *= 2;
         multiplier *= 10;
-    };
+        num -= num % place;
+    }
     
 
     cout << num << " decimal = " << bin << " binary" << endl;
